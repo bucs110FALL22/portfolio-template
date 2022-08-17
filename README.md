@@ -11,7 +11,7 @@ You will make a commit and submit the commit hash to brightspace when you comple
 
 ## Communication
 
-* https://discord.gg/unxcwrvzKh
+* [discord](#)
 
 1. If you do not already have an account, sign up with discord (you can use your bmail).
 2. Change your Server Nickname to your first and last name
