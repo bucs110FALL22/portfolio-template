@@ -1,4 +1,4 @@
-# CS110 Summer `22 Portfolio Repository
+# CS110 Fall `22 Portfolio Repository
 
 This is your porfolio for the semester. All your work, besides the final project, will go into here.
 
